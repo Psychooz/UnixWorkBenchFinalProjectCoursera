@@ -5,7 +5,7 @@
 \
 **Make date**: Sat Apr 24 19:46:23 GMT+1 2024
 \
-**Number of lines in guessinggame.sh:** 24
+**Number of lines in guessinggame.sh:** 22
 
 **KUDOS!!!**
 
